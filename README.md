@@ -1,6 +1,6 @@
 # Bachelors-Essay
 
-For this project, I adapted code from https://github.com/hbhasin/Image-Recognition-with-Deep-Learning to better understand how convolutional neural networks work. I trained a 6-layer CNN on the noodle soup vs. fried noodle binary classification dataset, and then tried to apply it to the butterfly dataset, which has 10 classes. The CNN handled the binary classification problem relatively well, but it did not do well with the butterfly dataset. 
+For this project, I adapted code from https://github.com/hbhasin/Image-Recognition-with-Deep-Learning to better understand how convolutional neural networks work. I trained a 6-layer CNN on the noodle soup vs. fried noodle binary classification dataset, and then tried to apply it to the butterfly dataset, which has 10 classes. The CNN did not do well with the butterfly dataset. 
 
 I also trained and finetuned different pretrained models on the Dog dataset. The VGG16 dataset had high accuracy and low loss, while the ResNet50, ResNet101, and ResNet152 all did not perform well.
 
